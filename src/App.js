@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <Route path="/portfolio/">
+          <Route path="/portfolio">
             <NavBar />
             <Banner />
             <Skills />
